@@ -5,6 +5,7 @@ Contact: userg@yandex.ru
 ### Key points
 
 Learn Java 
+Lean html and networks
 
 
 ### 🛠 Technical Stack
