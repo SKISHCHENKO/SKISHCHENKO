@@ -9,10 +9,10 @@ Learn Java
 
 ### 🛠 Technical Stack
 
-Java languages
-MySQL, PostgreSQL
-Spring Framework, Spring Boot
-GitHub
+Java languages 
+MySQL, PostgreSQL 
+Spring Framework, Spring Boot 
+GitHub 
 
 <!--
 **SKISHCHENKO/SKISHCHENKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
