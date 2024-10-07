@@ -2,12 +2,12 @@
 
 Contact: userg@yandex.ru
 
-# Key points
+### Key points
 
 Learn Java 
 
 
-# 🛠 Technical Stack
+### 🛠 Technical Stack
 
 Java languages
 MySQL, PostgreSQL
