@@ -4,7 +4,7 @@ Contact: userg@yandex.ru
 
 ### Key points
 
-Learn Java 
+Learn Java   
 Lean html and networks
 
 
