@@ -10,7 +10,7 @@ Lean html and networks
 
 ### 🛠 Technical Stack
 
-Java languages  
+Java language  
 MySQL, PostgreSQL  
 Spring Framework, Spring Boot  
 GitHub  
