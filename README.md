@@ -1,19 +1,22 @@
-## Hi, I am Sergei 👋
+<h2 align="center">Hi! I'm Sergei</h2>
+<h3 align="center">Welcome to my github page</h3>
 
-Contact: userg@yandex.ru
+
 
 ### Key points
 
-Learn Java   
-Lean html and networks
+⚡ Learning Java  
 
+### 🛠 My technology stack:
 
-### 🛠 Technical Stack
+Java language,  
+Spring Framework, Spring MVC, Spring Boot,  
+REST API,  
+Unit, Mockito,  
+MySQL, PostgreSQL,  
+Git   
 
-Java language  
-MySQL, PostgreSQL  
-Spring Framework, Spring Boot  
-GitHub  
+Contact: userg@yandex.ru
 
 <!--
 **SKISHCHENKO/SKISHCHENKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
