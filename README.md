@@ -9,13 +9,15 @@
 
 ### 🛠 My technology stack:
 
-Java language,  
+JAVA 
 Spring Framework, Spring MVC, Spring Boot,  
 REST API,  
 Unit, Mockito,  
 MySQL, PostgreSQL,  
 Git   
-
+<!--
+[![My Skills](https://skills.thijs.gg/icons?i=java,css,html,git,mysql)](https://skills.thijs.gg)
+-->
 Contact: userg@yandex.ru
 
 <!--
