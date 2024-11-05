@@ -23,7 +23,7 @@ Git
 [![My Skills](https://skills.thijs.gg/icons?i=java,css,html,git,mysql)](https://skills.thijs.gg)
 -->
 
- ✅ Completed :
+ ✅ Completed tasks:
 
 📝 [Сетевой чат](https://github.com/SKISHCHENKO/Chat)  
 
