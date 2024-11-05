@@ -20,6 +20,17 @@ Git
 -->
 Contact: userg@yandex.ru
 
+ ✅ Completed :
+
+[Сетевой чат](https://github.com/SKISHCHENKO/Chat)  
+
+[Java Servlet application](https://github.com/SKISHCHENKO/ServletsPosts)  
+
+[Банковская карта](https://github.com/SKISHCHENKO/BankApp)
+
+[Телеграмм-бот для генерации изображений](https://github.com/SKISHCHENKO/GeneratePictBot)  
+Для работы необходимы API keys с сайта FusionBrain, бот создан на API Kandinskiy
+
 <!--
 **SKISHCHENKO/SKISHCHENKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
