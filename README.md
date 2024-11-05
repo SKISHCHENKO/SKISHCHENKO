@@ -3,8 +3,9 @@
 </p>
 <h2 align="center">Hi! I'm Sergei</h2>
 <h3 align="center">Welcome to my github page</h3>
-
-
+<p align="center">
+📫 Contact me: userg@yandex.ru
+</p>
 
 ### Key points
 
@@ -21,7 +22,6 @@ Git
 <!--
 [![My Skills](https://skills.thijs.gg/icons?i=java,css,html,git,mysql)](https://skills.thijs.gg)
 -->
-📫 Contact me: userg@yandex.ru
 
  ✅ Completed :
 
