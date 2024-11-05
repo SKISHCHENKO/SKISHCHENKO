@@ -18,7 +18,7 @@ Git
 <!--
 [![My Skills](https://skills.thijs.gg/icons?i=java,css,html,git,mysql)](https://skills.thijs.gg)
 -->
-Contact: userg@yandex.ru
+📫 Contact me: userg@yandex.ru
 
  ✅ Completed :
 
