@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/c86ef2ea-9546-48fd-87b9-18a0335f5637" alt="image" width="300">
+</p>
 <h2 align="center">Hi! I'm Sergei</h2>
 <h3 align="center">Welcome to my github page</h3>
 
