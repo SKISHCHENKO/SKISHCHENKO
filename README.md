@@ -31,6 +31,8 @@ Git
 
 💳 [Банковская карта](https://github.com/SKISHCHENKO/BankApp)
 
+💸 [Сервис перевода денег с карты на карту](https://github.com/SKISHCHENKO/MoneyTransferApp)
+
 🖼️ [Телеграмм-бот для генерации изображений](https://github.com/SKISHCHENKO/GeneratePictBot)  
 Для работы необходимы API keys с сайта FusionBrain, бот создан на API Kandinskiy
 
