@@ -36,6 +36,8 @@ Git
 🖼️ [Телеграмм-бот для генерации изображений](https://github.com/SKISHCHENKO/GeneratePictBot)  
 Для работы необходимы API keys с сайта FusionBrain, бот создан на API Kandinskiy
 
+📝[TaskManager для постановки и отслеживания задач](https://github.com/SKISHCHENKO/TaskManager)
+
 <!--
 **SKISHCHENKO/SKISHCHENKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
