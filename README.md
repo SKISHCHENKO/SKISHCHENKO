@@ -15,8 +15,8 @@
 
  JAVA 
 Spring Framework, Spring MVC, Spring Boot,  
-REST API, CXF, SOAP,
-Unit, Mockito,  
+REST API, CXF, SOAP,  
+Unit tests, Mockito,  
 MySQL, PostgreSQL,  
 Git   
 <!--
